@@ -1,0 +1,10 @@
+Hello! My name is Arek and I'm a junior at USC. 
+
+I'm majoring in Computer Science and, and I'm minoring in Cybersecurity. 
+
+I started my journey into the world of coding through an extracurricular C# programming class on the weekends.
+
+Over the years, I've learned more and more about the field, further deepening my passion and respect for the world of software.
+
+When I'm not coding or learning about new technologies, I spend my time going to the gym, playing D&D, cooking, and exploring LA with my friends.
+
