@@ -1,5 +1,6 @@
 from flask import *
 import os 
+import json
 
 def create_app():
     app = Flask(__name__)
@@ -27,5 +28,9 @@ def create_app():
                 else: 
                     curr += line
         return jsonify(about) 
-
+    
+    @app.route('/api/v1/projects', methods=['GET'])
+    def test():
+        with open(path + '/data/projects.json', 'r') as f:
+            return json.loads(f.read())
     return app

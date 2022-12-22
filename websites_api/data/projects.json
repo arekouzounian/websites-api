@@ -1,0 +1,29 @@
+{
+	"projects": [
+		{
+			"title": "Websites",
+			"link": "https://arekouzounian.com",
+			"description": "In december of 2021, I got the random urge to set up my own website from scratch. I spent New Years' learning how to configure Apache, and quickly deployed my idea to a cloud webserver; a personal website that mimicked the Bash terminal with basic JavaScript. I realized later that it would be better to have a website that less technical people could understand, but I loved my website too much to take it down. So, I uploaded my second website, which was simple, visual, and the primary page for non-developers to see. I soon realized that there was an issue; both websites were mostly static, and every time I wanted to update information about myself, I would have to manually do so in both websites. To solve this, I created a REST API whose endpoints contain the central text from which both websites could draw their common content from (If you're reading this page right now, the API is working!). The API is once again built on Apache, but this time using Flask for its dynamic data. I had to learn about WSGI configurations, CORS, and a whole host of other things to get the API functioning properly." 
+		},
+		{
+			"title": "Runner Project",
+			"link": "https://github.com/arekouzounian/runner",
+			"description": "The goal of this project is to create a remote code execution engine that features a CLI, a website front-end, as well as a REST API to run code remotely, akin to the Go Playground."
+		},
+		{
+			"title": "Discord Bots",
+			"link": "https://github.com/arekouzounian/dnd-bot",
+			"description": "I've worked on/created a series of Discord bots; the one I have used the most is 'dnd-bot', a bot that I created during quarantine to help my home-run D&D game run smoothly in the online setting. Another interesting bot that I worked on was a discord bot designed to mimic simplified functionality of RReddit, which I worked on during a week-long Discord-run hackathon."
+		},
+		{
+			"title": "CS201 Final Project",
+			"link": "https://github.com/arekouzounian/CS201-Final-Project",
+			"description": "This was the final project for USC's CS201 class that I took in the Fall of 2022. Our project was a simplified event platform that allowed students to post local events, RSVP to events, as well as filter through events based on preferences such as category, date, or time. Though we only had a few weeks to complete the project, we were able to create a decently usable MVP that used an MERN frontend stack as well as a Java-based backend (JDBC, Google Cloud SQL, and Springboot alongside Java Servlets). I learned a lot about React as a frontend developer, as well as a lot about trying to meet project goals with little time and variably unavailable group members"
+		},
+		{
+			"title": "Data Structures & Foundations",
+			"link": "https://github.com/arekouzounian/DataStructures",
+			"description": "This was less of a project and more of an achievement; throughout all 4 years of high school, I attended an extra-curricular programming class on the weekends that was really the gateway into the world of coding for me. I learned the basics of C#, made simple games in the Microsoft XNA framework, made Windows Forms applications, and (linked above) implemented a number of algorithms and Data Structures in native C#. This project taught me the most about coding, even though the code I wrote at the time was quite sloppy and inefficient."
+		}
+	]
+}
