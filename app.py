@@ -1,13 +1,6 @@
 from flask import *
-from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)
-
-@app.route('/api/v1/test')
-def test():
-    test = {"key": "value", "test": 1}
-    return jsonify(test)
 
 @app.route('/api/v1/interests', methods=['GET'])
 def interests():
