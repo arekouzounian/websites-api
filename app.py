@@ -32,4 +32,4 @@ def about():
     return jsonify(about) 
 
 if __name__ == '__main__':
-    app.run('0.0.0.0', debug=True, ssl_context=('/etc/letsencrypt/live/api.arekouzounian.com/cert.pem', '/etc/letsencrypt/live/api.arekouzounian.com/privkey.pem'))
+    app.run('0.0.0.0', debug=True)
