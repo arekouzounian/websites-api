@@ -1,6 +1,6 @@
-Hello! My name is Arek and I'm a junior at USC. 
+Hello! My name is Arek and I'm a student at USC. 
 
-I'm majoring in Computer Science and, and I'm minoring in Cybersecurity. 
+I'm pursuing a Bachelor's degree in Computer Science with a minor in Cybersecurity, and pursuing a Master's degree in Computer Science.
 
 I started my journey into the world of coding through an extracurricular C# programming class on the weekends.
 

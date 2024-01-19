@@ -1,7 +1,7 @@
 Vim (not Emacs)
 CTFs
-Rust/Kotlin
 Command-Line Tools
 Linux and Unix  
 Containerization
 Open-Source Software 
+Cloud Architecture
